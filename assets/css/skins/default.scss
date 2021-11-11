@@ -9,19 +9,20 @@
 
 /* Colors */
 $base-color: #000 !default;
-$text-color: #000 !default;
-$accent-color: #34374C !default;
+$text-color: #1D004E !default;
+$primary-color: #5B13D1 !default;
+$accent-color: #FF8E40 !default;
 $nav-color: #fff !default;
-$background-color: #fff !default;
+$background-color: #FFF7F2 !default;
 $nav-background-color: #000 !default;
 $code-background-color: tint($base-color, 95%) !default;
 $border-color: tint($base-color, 80%) !default;
 
-$primary-color: #000 !default;
-$success-color: #62c462 !default;
-$warning-color: #f89406 !default;
-$danger-color: #ee5f5b !default;
-$info-color: #52adc8 !default;
+$primary-color: #5B13D1 !default;
+$success-color: #BDFF00 !default;
+$warning-color: #FF8E40 !default;
+$danger-color: #FF5474 !default;
+$info-color: #3EE0F6 !default;
 
 /* Syntax highlighting (base16) colors */
 $base00: #fafafa !default;

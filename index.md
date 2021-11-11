@@ -1,6 +1,8 @@
 ---
-layout: home
-limit: 10
-show_excerpts: true
-entries_layout: list
+layout: landing
 ---
+
+## The missing on-ramp to life after school
+Every teenager deserves the time, space, and structure to find their path and build the skills they need to succeed after school; without the burden of debt or deferring their future beyond what's necessary.
+
+[Sign up to learn more](){:class="btn"}
